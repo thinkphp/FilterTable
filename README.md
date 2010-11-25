@@ -1,4 +1,4 @@
-AutoTagger
+FilterTable
 ====================
 
 MooTools Plugin for filtering table rows.
