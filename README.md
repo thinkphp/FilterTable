@@ -3,7 +3,7 @@ FilterTable
 
 MooTools Plugin for filtering table rows.
 
-![Screenshot](http://farm5.static.flickr.com/4108/5206678055_1bcc1d854c_b.jpg)
+![Screenshot](http://farm5.static.flickr.com/4108/5206678055_1bcc1d854c_z.jpg)
 
 How to use
 ----------
