@@ -39,7 +39,7 @@ In your HTML.
 
 You can view in action:
 
-- [http://thinkphp.github.com/FilterTAble](http://thinkphp.github.com/FilterTable)
+- [http://thinkphp.github.com/FilterTable](http://thinkphp.github.com/FilterTable)
 
 ### Requirements:
 
