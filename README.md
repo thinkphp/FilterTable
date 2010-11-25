@@ -21,6 +21,13 @@ In your JS.
               new FilterTable({filterClass: 'filterable'});
        });
 
+In your CSS.
+
+       #CSS
+       <style type="text/css">
+       .highlighted{background: #ffff00}  
+       </style>
+
 In your HTML.
 
        #HTML
