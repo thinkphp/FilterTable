@@ -3,7 +3,7 @@ FilterTable
 
 MooTools Plugin for filtering table rows.
 
-![Screenshot]()
+![Screenshot](http://farm5.static.flickr.com/4108/5206678055_1bcc1d854c_b.jpg)
 
 How to use
 ----------
@@ -24,7 +24,7 @@ In your JS.
 In your HTML.
 
        #HTML
-       <table WIDTH="100%" BORDER="0" CELLSPACING="1" CELLPADDING="2" class="filter">
+       <table WIDTH="100%" BORDER="0" CELLSPACING="1" CELLPADDING="2" class="filterable">
           <tr BGCOLOR="">
                <TD ALIGN="MIDDLE"><FONT COLOR=""><B>Project&#160;Name</B></FONT></TD>
                <TD ALIGN="MIDDLE"><FONT COLOR=""><B>Description</B></FONT></TD>
