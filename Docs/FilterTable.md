@@ -18,4 +18,8 @@ FilterTable Method: constructor {#FilterTable: constructor}
 
 ### Options:
 
-* filterClass - (*String*) The CSS class for highlighted search terms.
+* ``filterClass`` - (*String*) The CSS class for highlighted search terms.
+
+### Returns:
+
+A ``FilterTable`` Object.
