@@ -1,7 +1,0 @@
-name: FilterTable
-author: thinkphp
-current: v1.0  
-category: Utilities  
-tags: [table,filter,interface,rows,tr,td]
-docs: https://github.com/thinkphp/FilterTable/blob/master/Docs/FilterTable.md
-demo: http://thinkphp.github.com/FilterTable/ 
