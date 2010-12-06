@@ -1,7 +1,7 @@
 FilterTable
 ====================
 
-MooTools Plugin for filtering table rows.
+A simple plugin MooTools to filter a standard HTML table. The user enters a term in a textfield and just the table entries which contain it will be shown.
 
 ![Screenshot](http://farm5.static.flickr.com/4108/5206678055_1bcc1d854c_z.jpg)
 
